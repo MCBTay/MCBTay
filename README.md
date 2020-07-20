@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a full stack developer working in Atlanta, Georgia.
 <!--
 **MCBTay/MCBTay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
