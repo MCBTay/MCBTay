@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm a full stack developer working in Atlanta, Georgia.
+I'm a full stack .NET developer working in Atlanta, Georgia.
 
-I write mods SkaterXL in my free time. 
+I work with C#, XAML, and GraphQL utilizing HotChocolate and StrawberryShake daily.
+
+Starting to tinker with Javascript frameworks like React
+
+I write mods utilizing C# and Unity for SkaterXL in my free time. 
 <!--
 **MCBTay/MCBTay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
