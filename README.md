@@ -16,3 +16,4 @@ At a previous job, I was working with C#, .NET Framework/.NET 5, WPF, and GraphQ
 🛠️ I'm starting to tinker with and learn more JavaScript and web based frameworks such as React, Angular, Vue, and Blazor.
 
 🛹 I've written a few mods for a skateboarding game, SkaterXL, utilizing C# and Unity in my free time.
+- Heavily utilizing [Harmony](https://github.com/pardeike/Harmony) to extend/replace base game functionality.
