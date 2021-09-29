@@ -2,11 +2,11 @@
 
 I'm a full stack .NET developer working in Atlanta, Georgia.
 
-I work with C#, XAML, and GraphQL utilizing HotChocolate and StrawberryShake daily.
+At my previous job, I was working with C#, .NET Framework/.NET 5, WPF, and GraphQL daily utilizing [Hot Chocolate, Strawberry Shake, and Banana Cake Pop](https://github.com/ChilliCream/hotchocolate).
 
-Starting to tinker with Javascript frameworks like React
+I'm starting to tinker with and learn more JavaScript and web based frameworks such as React, Angular, Vue, and Blazor.
 
-I write mods utilizing C# and Unity for SkaterXL in my free time. 
+I've written a few mods for a skateboarding game, SkaterXL, utilizing C# and Unity in my free time.
 <!--
 **MCBTay/MCBTay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
